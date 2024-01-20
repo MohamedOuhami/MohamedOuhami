@@ -3,16 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedouhami&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedouhami" /> </p>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
-
 [![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)]()
 [![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]()
 
 
 
 - 🌱 I’m currently learning **React Native, React**
-
-- 📄 Know about my experiences [machine learning engineer (3DSmartFactory / Morocco)](machine learning engineer (3DSmartFactory / Morocco))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
