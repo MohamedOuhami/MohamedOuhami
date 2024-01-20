@@ -30,9 +30,9 @@
 <!-- Two-column layout for GIFs -->
 <p align="center">
   <!-- Left GIF -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedouhami&show_icons=true&locale=en&layout=compact" alt="mohamedouhami" />
+  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedouhami&show_icons=true&locale=en&layout=compact" alt="mohamedouhami" />
 
   <!-- Right GIF -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedouhami&" alt="mohamedouhami" />
+  <img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedouhami&" alt="mohamedouhami" />
 </p>
 
