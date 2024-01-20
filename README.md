@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedouhami&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedouhami" /> </p>
 
-[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)]()
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]()
 
+<!-- Two-column layout for GIFs -->
+<p align="center">
+  <!-- Left GIF -->
+  <img width="45%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF 1" />
+
+  <!-- Right GIF -->
+  <img width="45%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="GIF 2" />
+</p>
 
 
 - 🌱 I’m currently learning **React Native, React**
