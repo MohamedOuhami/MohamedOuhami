@@ -5,7 +5,7 @@
 
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
-[![MasterHead](https://giphy.com/embed/qgQUggAC3Pfv687qPC)](https://rishavchanda.io)
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://rishavchanda.io">View on Giphy</a></p>
 
 - 🌱 I’m currently learning **React Native, React**
 
