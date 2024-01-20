@@ -6,6 +6,8 @@
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 [![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)]()
+[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]()
+
 
 
 - 🌱 I’m currently learning **React Native, React**
