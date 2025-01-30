@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ouhami</h1>
-<h3 align="center">A passionate data engineer based in Morocco</h3>
+<h3 align="center">A passionate Software Engineer based in Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedouhami&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedouhami" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedouhami" alt="mohamedouhami" /></a> </p>
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🌱 I’m currently learning **Go and Angular**
 
-- 💬 Ask me about **AWS services**
+- 💬 Ask me about **Go**
 
 - 📫 How to reach me **mohamed.ouhami2001@gmail.com**
 
