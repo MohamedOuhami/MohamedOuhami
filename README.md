@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ouhami</h1>
-<h3 align="center">A passionate Software Engineer based in Morocco</h3>
+<h3 align="center">A Low-level software engineer by day and Graphics and Game Developer by night</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedouhami&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedouhami" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedouhami" alt="mohamedouhami" /></a> </p>
 
-- 🌱 I’m currently learning **Go and Angular**
+- 🌱 I’m currently learning **OpenGL and Graphics programming**
 
-- 💬 Ask me about **Go**
+- 💬 Ask me about **C++ and GPUs**
 
 - 📫 How to reach me **mohamed.ouhami2001@gmail.com**
 
