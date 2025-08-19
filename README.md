@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ouhami aka <V01D></h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ouhami aka V01D</h1>
 <h3 align="center">A low-level software developer by day and a Graphics programmer by night</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedouhami&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedouhami" /> </p>
