@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/v01d_1949" target="blank"><img src="https://img.shields.io/twitter/follow/v01d_1949?logo=twitter&style=for-the-badge" alt="v01d_1949" /></a> </p>
 
-- 🔭 I’m currently working on **DOOM Game Engine**
+- 🔭 I’m currently working on a **DOOM Game Engine**
 
-- 📝 I regularly write articles on [Graphics Programming and Game Dev](Graphics Programming and Game Dev)
+- 📝 I regularly write articles on Graphics Programming and Game Dev
 
 - 💬 Ask me about **Graphics Programming**
 
